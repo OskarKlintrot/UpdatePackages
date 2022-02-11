@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "Shared": {
+      "commandName": "Project",
+      "commandLineArgs": "--verbosity Warning",
+      "workingDirectory": "C:\\repos\\eparkering-other\\Shared"
+    },
+    "PaymentCard": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\repos\\eparkering-core\\PaymentCard"
+    },
+    "Template": {
+      "commandName": "Project",
+      "commandLineArgs": "--verbosity Warning",
+      "workingDirectory": "C:\\repos\\eparkering-other\\Shared\\Templates\\Gsp.Templates\\templates\\microservice"
+    }
+  }
+}
